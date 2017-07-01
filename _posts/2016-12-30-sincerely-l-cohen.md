@@ -1,7 +1,6 @@
 ---
 title: Sincerely, L. Cohen
 category: personal
-aside: true
 ---
 
 My first car was a late '80s Toyota Tercel that was the color of a jug of supermarket eggnog. In my older brother's younger years, he briefly (and unsuccessfully) got into fixing up and reselling used cars, which is how this car came to end up in the back lot of my parents' house and, later, into my possession. The only visible sign of refurbishment I can remember was a new stereo system; in all other respects, from the perpetually damp floor mat to the brittle plastic dashboard to the cracked vinyl upholstery, it looked like (and was) a worn-out vehicle with little life left, save for giving me some measure of independence my last two years of high school.
