@@ -1,16 +1,16 @@
 // Background colours
-$backgroundColour: #ffffff;
-$codeBackgroundColour: #f4f4f4;
-$featureBackgroundColour: #eeeeee;
-$accentColour: #05bf85;
+$backgroundColour: #fdf6e3;
+$codeBackgroundColour: #eee8d5;
+$featureBackgroundColour: #eee8d5;
+$accentColour: #dc322f;
 
 // Text colours
-$headingColour: #333333;
+$headingColour: #383838;
 $bodyColour: #555555;
-$linkColour: #05bf85;
-$hoverColour: #008000;
-$focusColour: #fa407a;
-$captionColour: #aaaaaa;
+$linkColour: #dc322f;
+$hoverColour: #859900;
+$focusColour: #d33682;
+$captionColour: #93a1a1;
 $white: #ffffff;
 
 // Typography
@@ -23,14 +23,14 @@ $bodytype: (
 );
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  font-family: 'Arial, sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
 );
 
 $monospacetype: (
-  font-family: 'Menlo, monospace',
+  font-family: 'monospace',
   regular: 400,
   cap-height: 0.68
 );
