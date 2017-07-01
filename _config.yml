@@ -55,7 +55,7 @@ timezone: US/Eastern # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Blog # Needed for Siteleaf
     output: true
     description: "Writings on various topics" # The post list page content
 
