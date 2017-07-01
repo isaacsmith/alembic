@@ -57,7 +57,7 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: true
-    description: "Writings on various topics" # The post list page content
+    description: "Writings on various topics. [Subscribe to RSS](https://isaacsmith.github.io/feed.xml)" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
