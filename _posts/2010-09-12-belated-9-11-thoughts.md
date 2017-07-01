@@ -1,0 +1,10 @@
+---
+title: Belated 9/11 Thoughts
+category: politics
+---
+
+*Originally published on my [tumblr](https://isaacsmith.tumblr.com/post/1109842125/belated-911-thoughts).*
+
+For me, the thing to remember about 9/11 is that, when people ([Fareed Zakaria](http://www.newsweek.com/2010/09/04/zakaria-why-america-overreacted-to-9-11.html) for example) say that America overreacted to the attacks, it's because they tapped into a lot of dark currents in American society that had been growing for years beforehand. As Chris Hayes [documented masterfully](http://www.chrishayes.org/articles/the-good-war-on-terror/) in 2006, nostalgia for the supposed moral clarity of the World War II era, epitomized by _Saving Private Ryan_ and _The Greatest Generation_, was the product of a widely-held mindset that longed for something that would unify the nation behind a purpose as grand as saving the world from Hitler -- the coining of the term "Islamofascism" after the Towers fell was no accident. The 1990s, moreover, was a decade in which the idea of the "humanitarian" use of force, as in Haiti and Bosnia and Kosovo, gained currency. Islamophobia, too, was in the mix: Until Timothy McVeigh and Terry Nichols were arrested, many media outlets were speculating that the Oklahoma City bombing, like the first World Trade Center bombing in 1993, was the work of _Islamic_ terrorists. The first Iraq War, meanwhile, offered compelling evidence of how easily major media outlets would fall in lockstep with a full-scale military campaign.
+
+This isn't to say that the US didn't make serious mistakes in response to the attacks, mistakes that wouldn't have been made if neoconservatives hadn't been running the executive branch. But they were mistakes that took advantage of weaknesses that have only become greater in the years since 9/11. We may be more reluctant to use military force now, for example, but fear of Muslims, as the controversies over the Park51 center and the (now-canceled) Qur'an burning have shown, is alive and well. With the far right now making Islamophobia an article of faith, we're not likely to overcome those weaknesses anytime soon.

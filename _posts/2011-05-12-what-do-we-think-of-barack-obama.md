@@ -1,0 +1,24 @@
+---
+title: What Do We Think of Barack Obama?
+category: politics
+---
+
+*Orginally published on my [tumblr](https://isaacsmith.tumblr.com/post/5434631839/what-do-we-think-of-barack-obama).*
+
+This has been on my mind a bit in the last several weeks. Of course, the fact that he succeeded in killing Osama bin Laden raises his esteem in the eyes of many Americans greatly, and (no doubt) will help boost his chances at reelection. But that achievement, as worthy as it is, shouldn't obscure that there are many reasons to be disappointed in the President's performance to date. In the weeks before the bin Laden assault, a lot of liberals seemed to be going through a bout of buyer's remorse: _Where is the man we elected?_ Even those of us who knew of Obama's centrist tendencies from the beginning were a little shocked at how he handled the budget showdown with the House Republicans, and how he's handling the ongoing conflict over the debt ceiling. Pre-compromising with the GOP is a strategy that has borne little fruit thus far -- in that it consistently moves the terms of debate rightward -- yet the Obama administration _keeps on doing it_. It's of a piece with its endorsement of the [false analogy][] of public finances with family finances, something the President has been doing since the 2010 State of the Union. All this might be excusable, but for the fact that economic recovery is still anemic and talk of doing anything about unemployment has vanished on both sides of the aisle. President Obama is still the favorite for 2012, in my view, but it won't be for his impressive handling of the Great Recession.
+
+[false analogy]: http://yglesias.thinkprogress.org/2011/03/households-and-states/
+
+The question to ask, however, is this: _Could it have been otherwise?_ Let's take the recent _New York_ [profile][] of Paul Krugman as a point of departure. Even if the Obama administration hadn't lowballed the stimulus, as Krugman and other liberals have argued; had taken more punitive action against the banks (either nationalization or a similar kneecapping measure); had been more diligent about filling vacancies at the Federal Reserve; had been less conciliatory toward the Republicans generally -- you would still have had the filibuster in the Senate, and the result that the likes of Ben Nelson and Joe Lieberman were the swing votes you would have to woo in order to get anything done. That in itself limits how progressive any President can be -- or any House Speaker, or any Senate Majority Leader, for that matter.[^1]
+
+[profile]: http://nymag.com/news/politics/paul-krugman-2011-5/
+
+[^1]: To return to the bin Laden killing, it's notable that many of Obama's successes have been in the realm of foreign policy, where the President, rightly or wrongly, has a relatively free hand. If the order to kill bin Laden had had to go through Congress first, I suspect he would still be in his compound, [watching videos of himself][], while GOP leaders would demand the abolition of Medicaid, say, as the price for their support. I'm not the first to remark on the oddity that the President can order someone's death at will, but requires near-unanimous consent from Congress to offer relief to the poor and the jobless.
+
+[watching videos of himself]: http://blog.timesunion.com/marshall/home-video-from-osama-bin-ladens-compound-reveal-he-was-that-guy/5105/
+
+You can go international with this question, too. For me, what's astonishing about the late unpleasantness is not so much that progressive policies have been largely stymied in the US, but that _Europe_, of all places, has so thoroughly rejected the idea that returning to full employment should be the top priority of policymakers. (Again, see [Paul Krugman][].) On both sides of the Atlantic, there was a brief period from late 2008 to early 2009 in which elites agreed on the need for aggressive action to stop the financial crisis -- and afterward, a near pathological obsession with price stability, despite all evidence. To be disappointed in Obama's handling of the economy is to be disappointed in how elites throughout the industrialized world have responded to the aftermath of the crisis of 2008.
+
+[Paul Krugman]: http://www.nytimes.com/2011/05/09/opinion/09krugman.html?_r=2
+
+With all those structural factors to consider, can we consider Barack Obama's presidency to have been a success thus far? Obviously, the Affordable Care Act will be an enduring part of his legacy, to say nothing of the seismic cultural impact of the first black President. (Seriously -- can you believe that happened in this country, in our lifetimes?) But though historians may grade on a curve, voters do not, and I fear that the continued sluggishness of the economy makes Obama's reelection prospects dicey, while also constraining what he can accomplish in terms of policy. In other words, it'll be a lot like the second Clinton term, only without the leavening of a booming economy.
