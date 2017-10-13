@@ -1,5 +1,5 @@
 ﻿---
-title: What Are College Sports For?
+title: What Are College Sports For&#63;
 category: culture
 ---
 
